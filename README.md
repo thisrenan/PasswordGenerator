@@ -20,3 +20,8 @@ fmt.Println(randomSequence(10))
 ```
 C1n0Klg*LE
 ```
+
+##### Output 2
+```
+w%ES1l-2Ki
+```
