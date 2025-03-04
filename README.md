@@ -1,6 +1,16 @@
 PasswordGenerator
 =========
 
+Generate random passwords
+
+#### Config
+```go
+Lower Case Letters: abcdefghijklmnopqrstuvwxyz
+Upper Case Letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Numbers: 0123456789
+Special Characters: !@#$%&*()-=+
+```
+
 #### Example
 ```go
 fmt.Println(randomSequence(10))
